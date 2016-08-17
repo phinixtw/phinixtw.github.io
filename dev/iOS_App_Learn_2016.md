@@ -16,6 +16,6 @@
 -----
 ## 中文書
 
-* [iOS 9 App程式設計實力超進化實戰攻略：知名iOS教學部落格AppCoda作家親授實作關鍵技巧讓你不NG (Beginning iOS 9 Programming with Swift)](http://www.tenlong.com.tw/items/9864340727?item_id=1009746)
+* [iOS 9 App程式設計實力超進化實戰攻略](http://www.tenlong.com.tw/items/9864340727?item_id=1009746)
     > [AppCoda網站](https://www.appcoda.com/swift/)
 * [Swift 程式設計必學基礎](http://www.tenlong.com.tw/items/9864761129?item_id=1022780)
